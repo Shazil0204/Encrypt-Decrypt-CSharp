@@ -1,0 +1,15 @@
+C:\Users\Shaz0184\OneDrive - EFIF\Skrivebord\Encrypt-Decrypt-CSharp\Encrypt\Encrypt\bin\Debug\net8.0\Encrypt.exe
+C:\Users\Shaz0184\OneDrive - EFIF\Skrivebord\Encrypt-Decrypt-CSharp\Encrypt\Encrypt\bin\Debug\net8.0\Encrypt.deps.json
+C:\Users\Shaz0184\OneDrive - EFIF\Skrivebord\Encrypt-Decrypt-CSharp\Encrypt\Encrypt\bin\Debug\net8.0\Encrypt.runtimeconfig.json
+C:\Users\Shaz0184\OneDrive - EFIF\Skrivebord\Encrypt-Decrypt-CSharp\Encrypt\Encrypt\bin\Debug\net8.0\Encrypt.dll
+C:\Users\Shaz0184\OneDrive - EFIF\Skrivebord\Encrypt-Decrypt-CSharp\Encrypt\Encrypt\bin\Debug\net8.0\Encrypt.pdb
+C:\Users\Shaz0184\OneDrive - EFIF\Skrivebord\Encrypt-Decrypt-CSharp\Encrypt\Encrypt\obj\Debug\net8.0\Encrypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaz0184\OneDrive - EFIF\Skrivebord\Encrypt-Decrypt-CSharp\Encrypt\Encrypt\obj\Debug\net8.0\Encrypt.AssemblyInfoInputs.cache
+C:\Users\Shaz0184\OneDrive - EFIF\Skrivebord\Encrypt-Decrypt-CSharp\Encrypt\Encrypt\obj\Debug\net8.0\Encrypt.AssemblyInfo.cs
+C:\Users\Shaz0184\OneDrive - EFIF\Skrivebord\Encrypt-Decrypt-CSharp\Encrypt\Encrypt\obj\Debug\net8.0\Encrypt.csproj.CoreCompileInputs.cache
+C:\Users\Shaz0184\OneDrive - EFIF\Skrivebord\Encrypt-Decrypt-CSharp\Encrypt\Encrypt\obj\Debug\net8.0\Encrypt.sourcelink.json
+C:\Users\Shaz0184\OneDrive - EFIF\Skrivebord\Encrypt-Decrypt-CSharp\Encrypt\Encrypt\obj\Debug\net8.0\Encrypt.dll
+C:\Users\Shaz0184\OneDrive - EFIF\Skrivebord\Encrypt-Decrypt-CSharp\Encrypt\Encrypt\obj\Debug\net8.0\refint\Encrypt.dll
+C:\Users\Shaz0184\OneDrive - EFIF\Skrivebord\Encrypt-Decrypt-CSharp\Encrypt\Encrypt\obj\Debug\net8.0\Encrypt.pdb
+C:\Users\Shaz0184\OneDrive - EFIF\Skrivebord\Encrypt-Decrypt-CSharp\Encrypt\Encrypt\obj\Debug\net8.0\Encrypt.genruntimeconfig.cache
+C:\Users\Shaz0184\OneDrive - EFIF\Skrivebord\Encrypt-Decrypt-CSharp\Encrypt\Encrypt\obj\Debug\net8.0\ref\Encrypt.dll
